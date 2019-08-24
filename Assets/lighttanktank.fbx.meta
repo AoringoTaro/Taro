@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: 20218489952e040e8a9f0e497979a7bf
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Cube.000
+    100002: Cube.001
+    100004: //RootNode
+    100006: "\u30D9\u30B8\u30A8\u5186.000"
+    100008: "\u30D9\u30B8\u30A8\u5186.001"
+    100010: "\u5186\u67F1"
+    100012: "\u5186\u67F1.001"
+    100014: "\u5186\u67F1.002"
+    100016: "\u5186\u67F1.003"
+    100018: "\u5186\u67F1.004"
+    100020: "\u5186\u67F1.005"
+    100022: "\u5186\u67F1.006"
+    100024: "\u5186\u67F1.007"
+    100026: "\u5186\u67F1.008"
+    100028: "\u7ACB\u65B9\u4F53"
+    100030: "\u7ACB\u65B9\u4F53.001"
+    100032: "\u7ACB\u65B9\u4F53.002"
+    400000: Cube.000
+    400002: Cube.001
+    400004: //RootNode
+    400006: "\u30D9\u30B8\u30A8\u5186.000"
+    400008: "\u30D9\u30B8\u30A8\u5186.001"
+    400010: "\u5186\u67F1"
+    400012: "\u5186\u67F1.001"
+    400014: "\u5186\u67F1.002"
+    400016: "\u5186\u67F1.003"
+    400018: "\u5186\u67F1.004"
+    400020: "\u5186\u67F1.005"
+    400022: "\u5186\u67F1.006"
+    400024: "\u5186\u67F1.007"
+    400026: "\u5186\u67F1.008"
+    400028: "\u7ACB\u65B9\u4F53"
+    400030: "\u7ACB\u65B9\u4F53.001"
+    400032: "\u7ACB\u65B9\u4F53.002"
+    2100000: No Name
+    2100002: Material.001
+    2100004: Material.002
+    2300000: Cube.000
+    2300002: Cube.001
+    2300004: "\u30D9\u30B8\u30A8\u5186.000"
+    2300006: "\u30D9\u30B8\u30A8\u5186.001"
+    2300008: "\u5186\u67F1"
+    2300010: "\u5186\u67F1.001"
+    2300012: "\u5186\u67F1.002"
+    2300014: "\u5186\u67F1.003"
+    2300016: "\u5186\u67F1.004"
+    2300018: "\u5186\u67F1.005"
+    2300020: "\u5186\u67F1.006"
+    2300022: "\u5186\u67F1.007"
+    2300024: "\u5186\u67F1.008"
+    2300026: "\u7ACB\u65B9\u4F53"
+    2300028: "\u7ACB\u65B9\u4F53.001"
+    2300030: "\u7ACB\u65B9\u4F53.002"
+    3300000: Cube.000
+    3300002: Cube.001
+    3300004: "\u30D9\u30B8\u30A8\u5186.000"
+    3300006: "\u30D9\u30B8\u30A8\u5186.001"
+    3300008: "\u5186\u67F1"
+    3300010: "\u5186\u67F1.001"
+    3300012: "\u5186\u67F1.002"
+    3300014: "\u5186\u67F1.003"
+    3300016: "\u5186\u67F1.004"
+    3300018: "\u5186\u67F1.005"
+    3300020: "\u5186\u67F1.006"
+    3300022: "\u5186\u67F1.007"
+    3300024: "\u5186\u67F1.008"
+    3300026: "\u7ACB\u65B9\u4F53"
+    3300028: "\u7ACB\u65B9\u4F53.001"
+    3300030: "\u7ACB\u65B9\u4F53.002"
+    4300000: "\u7ACB\u65B9\u4F53.002"
+    4300002: "\u7ACB\u65B9\u4F53.001"
+    4300004: "\u5186\u67F1.001"
+    4300006: "\u5186\u67F1"
+    4300008: "\u7ACB\u65B9\u4F53"
+    4300010: "\u30D9\u30B8\u30A8\u5186.001"
+    4300012: Cube.001
+    4300014: "\u5186\u67F1.003"
+    4300016: "\u5186\u67F1.004"
+    4300018: "\u30D9\u30B8\u30A8\u5186.000"
+    4300020: Cube.000
+    4300022: "\u5186\u67F1.008"
+    4300024: "\u5186\u67F1.007"
+    4300026: "\u5186\u67F1.006"
+    4300028: "\u5186\u67F1.005"
+    4300030: "\u5186\u67F1.002"
+    7400000: "\u5186\u67F1.001|Cube.000Action"
+    7400002: "\u5186\u67F1.001|Cube.001Action"
+    7400004: "\u5186\u67F1.001|\u5186\u67F1.001Action"
+    7400006: "\u5186\u67F1.001|\u5186\u67F1.002Action"
+    7400008: "\u5186\u67F1.001|\u5186\u67F1.002Action.001"
+    7400010: "\u5186\u67F1.001|\u5186\u67F1.003Action"
+    7400012: "\u5186\u67F1.001|\u5186\u67F1.004Action"
+    7400014: Cube.001|Cube.000Action
+    7400016: Cube.001|Cube.001Action
+    7400018: "Cube.001|\u5186\u67F1.001Action"
+    7400020: "Cube.001|\u5186\u67F1.002Action"
+    7400022: "Cube.001|\u5186\u67F1.002Action.001"
+    7400024: "Cube.001|\u5186\u67F1.003Action"
+    7400026: "Cube.001|\u5186\u67F1.004Action"
+    7400028: "\u5186\u67F1.003|Cube.000Action"
+    7400030: "\u5186\u67F1.003|Cube.001Action"
+    7400032: "\u5186\u67F1.003|\u5186\u67F1.001Action"
+    7400034: "\u5186\u67F1.003|\u5186\u67F1.002Action"
+    7400036: "\u5186\u67F1.003|\u5186\u67F1.002Action.001"
+    7400038: "\u5186\u67F1.003|\u5186\u67F1.003Action"
+    7400040: "\u5186\u67F1.003|\u5186\u67F1.004Action"
+    7400042: "\u5186\u67F1.004|Cube.000Action"
+    7400044: "\u5186\u67F1.004|Cube.001Action"
+    7400046: "\u5186\u67F1.004|\u5186\u67F1.001Action"
+    7400048: "\u5186\u67F1.004|\u5186\u67F1.002Action"
+    7400050: "\u5186\u67F1.004|\u5186\u67F1.002Action.001"
+    7400052: "\u5186\u67F1.004|\u5186\u67F1.003Action"
+    7400054: "\u5186\u67F1.004|\u5186\u67F1.004Action"
+    7400056: Cube.000|Cube.000Action
+    7400058: Cube.000|Cube.001Action
+    7400060: "Cube.000|\u5186\u67F1.001Action"
+    7400062: "Cube.000|\u5186\u67F1.002Action"
+    7400064: "Cube.000|\u5186\u67F1.002Action.001"
+    7400066: "Cube.000|\u5186\u67F1.003Action"
+    7400068: "Cube.000|\u5186\u67F1.004Action"
+    7400070: "\u5186\u67F1.002|Cube.000Action"
+    7400072: "\u5186\u67F1.002|Cube.001Action"
+    7400074: "\u5186\u67F1.002|\u5186\u67F1.001Action"
+    7400076: "\u5186\u67F1.002|\u5186\u67F1.002Action"
+    7400078: "\u5186\u67F1.002|\u5186\u67F1.002Action.001"
+    7400080: "\u5186\u67F1.002|\u5186\u67F1.003Action"
+    7400082: "\u5186\u67F1.002|\u5186\u67F1.004Action"
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
