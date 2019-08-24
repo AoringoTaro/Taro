@@ -60,6 +60,7 @@
      <Compile Include="Assets\Blueteamstat\Blueheavytankstat.cs" />
      <Compile Include="Assets\Blueteamstat\Bluelighttankstat.cs" />
      <Compile Include="Assets\Cameramove.cs" />
+     <Compile Include="Assets\Factory\factorymove.cs" />
      <Compile Include="Assets\HPBar\HPbar.cs" />
      <Compile Include="Assets\HPs\camera_hp.cs" />
      <Compile Include="Assets\MouseLays.cs" />
@@ -72,8 +73,6 @@
      <Compile Include="Assets\TurnChangeAnim.cs" />
      <Compile Include="Assets\Turns\turnrule.cs" />
      <Compile Include="Assets\UIImages\circlebutton.cs" />
-     <Compile Include="Assets\UIImages\SpawnButtonMesh.cs" />
-     <Compile Include="Assets\UIImages\test.cs" />
      <None Include="Assets\Cul.shader" />
      <None Include="Assets\SampleScenes\Shaders\Skybox-Procedural.shader" />
  <Reference Include="UnityEngine.CoreModule">

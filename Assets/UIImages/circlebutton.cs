@@ -6,6 +6,7 @@ using UnityEngine.UI;
 public class circlebutton : MonoBehaviour {
 
 	public List<MenuButton> buttons = new List<MenuButton> ();
+	public GameObject factory;
 	private Vector2 Mouseposition;
 	private Vector2 fromVector2X = new Vector2(0.5f,1.0f);
 	private Vector2 centercircle = new Vector2(0.5f,0.5f);
@@ -28,7 +29,7 @@ public class circlebutton : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		GetCurrentMenuItem ();
-		if (Input.GetButtonDown ("0"))
+		//if (Input.GetButtonDown ("0"))
 			ButtonAction ();
 	}
 	public void GetCurrentMenuItem(){
@@ -50,8 +51,21 @@ public class circlebutton : MonoBehaviour {
 	}
 	public void ButtonAction(){
 		buttons [CurMenuItem].aceneimage.color = buttons [CurMenuItem].PressedColor;
-		if (CurMenuItem == 0)
-			print ("①のボタンを押しました");
+
+		switch (CurMenuItem) {
+		case 0:
+			factory.GetComponent<factorymove> ().Finished ();
+			break;
+		case 1:
+			factory.GetComponent<factorymove> ().Finished ();
+			break;
+		case 2:
+			factory.GetComponent<factorymove> ().Finished ();
+			break;
+		case 3:
+			factory.GetComponent<factorymove> ().Finished ();
+			break;
+		}
 	}
 
 }

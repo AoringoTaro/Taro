@@ -16,6 +16,7 @@ TagManager:
   - Turn2
   - Turntext
   - textchildren
+  - SpawnButton
   layers:
   - Default
   - TransparentFX
